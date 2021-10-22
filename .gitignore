@@ -1,0 +1,11 @@
+# IntelliJ
+.idea/
+
+# macOS
+.DS_Store
+
+# node.js packages
+node_modules/
+
+# all generated output
+public/
